@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RunGroupWebAppCLone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc5ef2f45c95c62fb01a9cf0431d97cb73147be1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bdefbe6a4ea2439c95f311427c064468a34cacb")]
 [assembly: System.Reflection.AssemblyProductAttribute("RunGroupWebAppCLone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RunGroupWebAppCLone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,29 +1,46 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using RunGroupWebAppCLone.Data;
+using RunGroupWebAppCLone.Interfaces;
 using RunGroupWebAppCLone.Models;
 
 namespace RunGroupWebAppCLone.Controllers
 {
     public class ClubController : Controller
     {
-        public ClubController(ApplicationDbContext context)
+        public ClubController(IClubRepository clubRepository)
         {
-            this._context = context;
+            this._clubRepository = clubRepository;
         }
 
-        private readonly ApplicationDbContext _context;
+        private readonly IClubRepository _clubRepository;
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            var clubs = _context.Clubs.ToList();
+            var clubs = await _clubRepository.GetAll();
             return View(clubs);
         }
 
-        public IActionResult Detail(int id)
+        public async Task<IActionResult> Detail(int id)
         {
-            Club club = _context.Clubs.Include(a => a.Address).FirstOrDefault(c => c.Id == id);
+            var club = await _clubRepository.GetByIdAsync(id);
             return View(club);
+        }
+
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Create(Club club)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(club);
+            }
+            _clubRepository.Add(club);
+            return RedirectToAction("Index");
         }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using RunGroupWebAppCLone.Data.Enum;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace RunGroupWebAppCLone.Models
@@ -14,6 +15,7 @@ namespace RunGroupWebAppCLone.Models
         public int AddressId { get; set; }
         public Address Address { get; set; }
         public RaceCategory RaceCategory { get; set; }
+
         [ForeignKey("AppUser")]
         public int AppUserId { get; set; }
         public AppUser AppUser { get; set; }

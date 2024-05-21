@@ -22,8 +22,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Dev-Stefan/AspNetRunGroupApp/RunGroupWebAppCLone/Views/Club/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Dev-Stefan/AspNetRunGroupApp/RunGroupWebAppCLone/Views/Club/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev-Stefan/AspNetRunGroupApp/RunGroupWebAppCLone/Views/Club/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Dev-Stefan/AspNetRunGroupApp/RunGroupWebAppCLone/Views/Club/Index.cshtml]
@@ -42,8 +50,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Dev-Stefan/AspNetRunGroupApp/RunGroupWebAppCLone/Views/Race/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Dev-Stefan/AspNetRunGroupApp/RunGroupWebAppCLone/Views/Race/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev-Stefan/AspNetRunGroupApp/RunGroupWebAppCLone/Views/Race/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Dev-Stefan/AspNetRunGroupApp/RunGroupWebAppCLone/Views/Race/Index.cshtml]

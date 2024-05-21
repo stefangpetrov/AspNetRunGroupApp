@@ -5,6 +5,7 @@ namespace RunGroupWebAppCLone.Interfaces
     public interface IRaceRepository
     {
         Task<IEnumerable<Race>> GetAll();
+        Task<Race> GetByIdAsyncNoTracking(int id);
         Task<Race> GetByIdAsync(int id);
         Task<IEnumerable<Race>> GetRaceByCity(string city);
 

@@ -7,24 +7,32 @@
       "RelativeMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|c:\\dev-stefan\\aspnetrungroupapp\\rungroupwebappclone\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|solutionrelative:data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|c:\\dev-stefan\\aspnetrungroupapp\\rungroupwebappclone\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|c:\\dev-stefan\\aspnetrungroupapp\\rungroupwebappclone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|c:\\dev-stefan\\aspnetrungroupapp\\rungroupwebappclone\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|c:\\dev-stefan\\aspnetrungroupapp\\rungroupwebappclone\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|c:\\dev-stefan\\aspnetrungroupapp\\rungroupwebappclone\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|c:\\dev-stefan\\aspnetrungroupapp\\rungroupwebappclone\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Data\\UserRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\UserRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|c:\\dev-stefan\\aspnetrungroupapp\\rungroupwebappclone\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|solutionrelative:data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|c:\\dev-stefan\\aspnetrungroupapp\\rungroupwebappclone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|c:\\dev-stefan\\aspnetrungroupapp\\rungroupwebappclone\\migrations\\20240521174159_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|solutionrelative:migrations\\20240521174159_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|c:\\dev-stefan\\aspnetrungroupapp\\rungroupwebappclone\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|c:\\dev-stefan\\aspnetrungroupapp\\rungroupwebappclone\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -181,6 +185,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|c:\\dev-stefan\\aspnetrungroupapp\\rungroupwebappclone\\data\\enum\\clubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|solutionrelative:data\\enum\\clubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|c:\\dev-stefan\\aspnetrungroupapp\\rungroupwebappclone\\data\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6C5C2-664B-4449-BEA1-5E205CE97A2E}|RunGroupWebAppCLone.csproj|solutionrelative:data\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -190,32 +198,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
-              "ToolTip": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "DocumentIndex": 6,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T19:19:08.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T19:17:27.218Z",
+              "WhenOpened": "2024-05-21T19:51:49.259Z",
               "EditorCaption": ""
             },
             {
@@ -226,39 +221,27 @@
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBYAAAAMAAAA",
+              "ViewState": "AQIAADcAAAAAAAAAAAAMwD0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T19:16:46.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserRoles.cs",
-              "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Data\\UserRoles.cs",
-              "RelativeDocumentMoniker": "Data\\UserRoles.cs",
-              "ToolTip": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Data\\UserRoles.cs",
-              "RelativeToolTip": "Data\\UserRoles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T17:53:12.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Models\\AppUser.cs",
               "ToolTip": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Models\\AppUser.cs",
               "RelativeToolTip": "Models\\AppUser.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwA8AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T06:50:53.918Z"
+              "WhenOpened": "2024-05-21T06:50:53.918Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Models\\Address.cs",
               "RelativeDocumentMoniker": "Models\\Address.cs",
@@ -270,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "RaceController.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Controllers\\RaceController.cs",
               "RelativeDocumentMoniker": "Controllers\\RaceController.cs",
@@ -282,20 +265,97 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAUAAAA7AAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-21T10:07:47.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:17:27.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "Data\\Seed.cs",
+              "ToolTip": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Data\\Seed.cs",
+              "RelativeToolTip": "Data\\Seed.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAvwJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:43:21.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:55:15.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Data\\UserRoles.cs",
+              "RelativeDocumentMoniker": "Data\\UserRoles.cs",
+              "ToolTip": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Data\\UserRoles.cs",
+              "RelativeToolTip": "Data\\UserRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:53:12.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:19:08.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAArwCYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:06:59.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "20240521174159_Identity.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Migrations\\20240521174159_Identity.cs",
               "RelativeDocumentMoniker": "Migrations\\20240521174159_Identity.cs",
@@ -307,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "RaceRepository.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Repository\\RaceRepository.cs",
               "RelativeDocumentMoniker": "Repository\\RaceRepository.cs",
@@ -319,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Club.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Models\\Club.cs",
               "RelativeDocumentMoniker": "Models\\Club.cs",
@@ -331,33 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Seed.cs",
-              "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Data\\Seed.cs",
-              "RelativeDocumentMoniker": "Data\\Seed.cs",
-              "ToolTip": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Data\\Seed.cs",
-              "RelativeToolTip": "Data\\Seed.cs",
-              "ViewState": "AQIAAJMAAAAAAAAAAAAYwJgAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T07:43:21.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAArwBwAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T07:06:59.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\Club\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Club\\Delete.cshtml",
@@ -369,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "EditRaceViewModel.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\ViewModels\\EditRaceViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\EditRaceViewModel.cs",
@@ -381,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ClubController.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Controllers\\ClubController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClubController.cs",
@@ -394,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -406,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\Club\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Club\\Index.cshtml",
@@ -418,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\Race\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Race\\Index.cshtml",
@@ -430,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\Race\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Race\\Delete.cshtml",
@@ -442,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\Race\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Race\\Create.cshtml",
@@ -454,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "IRaceRepository.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Interfaces\\IRaceRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IRaceRepository.cs",
@@ -466,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\Race\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Race\\Edit.cshtml",
@@ -478,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\Club\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Club\\Edit.cshtml",
@@ -490,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "IClubRepository.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Interfaces\\IClubRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IClubRepository.cs",
@@ -502,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "EditClubViewModel.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\ViewModels\\EditClubViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\EditClubViewModel.cs",
@@ -514,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -526,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "IPhotoService.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Interfaces\\IPhotoService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IPhotoService.cs",
@@ -538,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "ClubRepository.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Repository\\ClubRepository.cs",
               "RelativeDocumentMoniker": "Repository\\ClubRepository.cs",
@@ -550,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "CreateClubViewModel.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\ViewModels\\CreateClubViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\CreateClubViewModel.cs",
@@ -562,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Race.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Models\\Race.cs",
               "RelativeDocumentMoniker": "Models\\Race.cs",
@@ -574,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -586,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\Club\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Club\\Create.cshtml",
@@ -598,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "CreateRaceViewModel.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\ViewModels\\CreateRaceViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\CreateRaceViewModel.cs",
@@ -610,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "PhotoService.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Services\\PhotoService.cs",
               "RelativeDocumentMoniker": "Services\\PhotoService.cs",
@@ -622,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "CloudinarySettings.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Helpers\\CloudinarySettings.cs",
               "RelativeDocumentMoniker": "Helpers\\CloudinarySettings.cs",
@@ -634,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\Race\\Detail.cshtml",
               "RelativeDocumentMoniker": "Views\\Race\\Detail.cshtml",
@@ -646,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\Club\\Detail.cshtml",
               "RelativeDocumentMoniker": "Views\\Club\\Detail.cshtml",
@@ -658,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "RunGroupWebAppCLone.csproj",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\RunGroupWebAppCLone.csproj",
               "RelativeDocumentMoniker": "RunGroupWebAppCLone.csproj",
@@ -670,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -682,7 +716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -694,7 +728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -706,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -718,7 +752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "RaceCategory.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Data\\Enum\\RaceCategory.cs",
               "RelativeDocumentMoniker": "Data\\Enum\\RaceCategory.cs",
@@ -730,7 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "ClubCategory.cs",
               "DocumentMoniker": "C:\\Dev-Stefan\\AspNetRunGroupApp\\RunGroupWebAppCLone\\Data\\Enum\\ClubCategory.cs",
               "RelativeDocumentMoniker": "Data\\Enum\\ClubCategory.cs",

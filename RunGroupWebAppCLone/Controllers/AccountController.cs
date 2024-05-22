@@ -81,7 +81,7 @@ namespace RunGroupWebAppCLone.Controllers
                 await _userManager.AddToRoleAsync(newUser, UserRoles.User);
             }
 
-            return View("Index", "Race");
+            return RedirectToAction("Index", "Race");
         }
 
         [HttpPost]
